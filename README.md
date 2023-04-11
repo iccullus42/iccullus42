@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iccullus42
-- 👀 I’m Californian living in Croatia to escape fascism.  :) :?
+- 👀 I’m Californian, Français Croatian.  :) :?
 - 🌱 I’m currently improving my pyhton and working with Amazon API's
 - 💞️ I’m looking to collaborate on ... anything interseting. 
 - 📫 Leave a note here.  Peace
